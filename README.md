@@ -1,1 +1,1 @@
-The point of this repo is to learn the collab basics of GitHub.
+The point of this repo is to learn the collab basics of GitHub. Change 1.
