@@ -20,6 +20,11 @@ void car::calculateCar()
 	printf("car\n");
 }
 
+class audiR8 : public car
+{
+    private:
+        unsigned int horsepower = 9001;
+}
 
 int main(void)
 {
